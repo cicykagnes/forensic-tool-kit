@@ -18,10 +18,10 @@ the critical solution and save a lot of time.
 
 # Components of the app:
 1. Login portal
-2. Drawing tool using react
+2. Drawing tool using reactJS
 3. drag and drop features of the face(eg. eyes, nose,..) to create a face sketch
 4. Face sketch to photorealistic image generation using GAN
-5. Face recognition and displaying the details of the identified person(eg. name, address, age, ..) using Facenet and SQL
+5. Face recognition and displaying the details of the identified person(eg. name, address, age, ..) from a database of criminals using Facenet and MySQL
 6. Face Reconstruction of damaged Face image using GAN 
 
 
