@@ -8,7 +8,8 @@
 #LINK to the final project repo: https://gitlab.com/ANASDAVOODTK/forensic-tool-kit and https://gitlab.com/ANASDAVOODTK/forensic-tool-kit
 
 #Link to the project report:https://github.com/cicykagnes/forensic-tool-kit/blob/main/forensic%20project%20report%20(1).pdf
-     **BELOW ARE THE SCREENSHOTS OF THE FINAL WEB-APP THAT WAS DEVELOPED **
+    
+    **BELOW ARE THE SCREENSHOTS OF THE FINAL WEB-APP THAT WAS DEVELOPED **
 ![1](https://user-images.githubusercontent.com/44546284/232210745-2b0a2e06-0b37-48a4-ad8f-080cf1602778.jpg)
 ![2](https://user-images.githubusercontent.com/44546284/232210770-b1fc3f80-1d04-40f6-989c-a0564367b06e.jpg)
 ![3](https://user-images.githubusercontent.com/44546284/232210780-1b5939b7-8cfc-45d0-9337-fd2da75b372a.jpg)
